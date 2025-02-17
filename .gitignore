@@ -1,0 +1,8 @@
+sourceCode/main.o
+sourceCode/output.txt
+sourceCode/word_counter
+output.txt
+tests/test_input.txt
+tests/test_output.txt
+tests/tests.o
+tests/word_counter_tests 
